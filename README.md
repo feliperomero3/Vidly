@@ -14,6 +14,6 @@ Aplicación desarrollada en el Curso ["The Complete ASP.NET MVC 5 Course"](https:
 
 ## Licencia
 
-MIT License
+[MIT License](/LICENSE)
 
 Copyright (c) 2019 Felipe Romero
