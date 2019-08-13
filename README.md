@@ -1,6 +1,6 @@
 # Vidly - Aplicación ASP.NET MVC 5
 
-Aplicación desarrollada en el Curso ["The Complete ASP.NET MVC 5 Course"](https://codewithmosh.com/p/asp-net-mvc) por Mosh Hamedani.
+Basado en la Aplicación desarrollada en el Curso ["The Complete ASP.NET MVC 5 Course"](https://codewithmosh.com/p/asp-net-mvc) por Mosh Hamedani.
 
 ## Requisitos
 
